@@ -3,7 +3,6 @@ package InputsPage;
 import Helper.BaseTest;
 import Helper.FormData;
 import Helper.TestData;
-import LoginPage.LoginPage;
 import io.qameta.allure.*;
 import io.qameta.allure.junit5.AllureJunit5;
 import org.junit.jupiter.api.BeforeEach;
